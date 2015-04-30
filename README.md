@@ -1,2 +1,2 @@
 # final-project
-This is for SEO for my 
+This is for SEO for my final project, trying to...
